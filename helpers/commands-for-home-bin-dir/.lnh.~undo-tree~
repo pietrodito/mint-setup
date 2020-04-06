@@ -1,0 +1,9 @@
+"30a79266a867963749858cb567d660eacf57da35"
+#s(undo-tree [nil ([nil ([nil ([nil (#1=[nil nil ((12 . 93) ("#   QL_DIR=\"$HOME/0_Quick-Link\"
+#   unlink \"$QL_DIR\" 2> /dev/null
+#   ln -sf `pwd` \"$QL_DIR\"
+
+unlink /home/ulys/0_Quick-Link 2> /dev/null
+ln -sf `pwd` /home/ulys/0_Quick-Link" . 12) (t 24185 54692 292048 961000)) nil (24185 54945 651052 521000) 0 nil]) ((12 . 186) (#("QL_DIR=\"$HOME/0_Quick-Link\"
+unlink \"$QL_DIR\" 2> /dev/null
+ln -sf `pwd` \"$QL_DIR\"" 0 6 (face font-lock-variable-name-face) 7 27 (face font-lock-string-face) 35 44 (face font-lock-string-face) 45 46 (face highlight-numbers-number) 65 66 (face sh-quoted-exec) 66 67 (face sh-quoted-exec) 67 70 (face sh-quoted-exec) 71 80 (face font-lock-string-face)) . 12) (t 24185 54516 276039 561000)) nil (24185 54945 651059 408000) 0 nil]) ((8 . 9) (#("ba" 0 2 (fontified t face font-lock-keyword-face)) . 8) (undo-tree-id1 . -1) (undo-tree-id2 . -1) (undo-tree-id3 . -1) (undo-tree-id4 . -1) (undo-tree-id5 . -1) (undo-tree-id6 . -1) (undo-tree-id7 . -1) (undo-tree-id8 . -1) (undo-tree-id9 . -1) (undo-tree-id10 . -1) (undo-tree-id11 . -1) (undo-tree-id12 . -1) (undo-tree-id13 . -1) (undo-tree-id14 . -1) (undo-tree-id15 . -1) (undo-tree-id16 . -1) (undo-tree-id17 . -1) (undo-tree-id18 . -1) (undo-tree-id19 . -1) (undo-tree-id20 . -1) (undo-tree-id21 . -1) (undo-tree-id22 . -1) (undo-tree-id23 . -1) (t 24185 54194 868022 396000)) nil (24185 54945 651093 434000) 0 nil]) ((79 . 80) (#("q" 0 1 (fontified t face sh-quoted-exec)) . 79) (undo-tree-id0 . 1) (t 24184 55010 467337 657000)) nil (24185 54194 856166 398000) 0 nil]) nil nil (24185 54194 856171 324000) 0 nil] #1# 545 4 nil)
