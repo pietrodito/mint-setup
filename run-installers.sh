@@ -8,7 +8,6 @@ source ./installers/source-to-set-repo-dir-var.sh
 ./installers/oh-my-zsh.sh
 ./installers/copy-zsh-files-to-custom-dir.sh
 ./installers/home-bin-commands.sh
-# ./installers/redshift-setup.sh
 ./installers/autokey-setup.sh
 ./installers/zotero-setup.sh
 ./installers/nextcloud-setup.sh

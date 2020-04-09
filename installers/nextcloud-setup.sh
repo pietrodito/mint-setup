@@ -1,4 +1,4 @@
-sudo add-apt-repository ppa:nextcloud-devs/client
+sudo add-apt-repository ppa:nextcloud-devs/client -y
 
 sudo apt update
 
